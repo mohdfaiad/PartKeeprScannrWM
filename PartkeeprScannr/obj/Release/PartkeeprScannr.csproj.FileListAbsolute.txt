@@ -1,0 +1,22 @@
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\PartkeeprScannr.Form1.resources
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\PartkeeprScannr.Properties.Resources.resources
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\PartkeeprScannr.csproj.GenerateResource.Cache
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\bin\Release\PartkeeprScannr.exe
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\bin\Release\PartkeeprScannr.pdb
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\PartkeeprScannr.exe
+C:\Users\Stefan Hagemann\AppData\Local\Temporary Projects\PartkeeprScannr\obj\Release\PartkeeprScannr.pdb
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\PartkeeprScannr.exe
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\PartkeeprScannr.pdb
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\ResolveAssemblyReference.cache
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.Properties.Resources.resources
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.csproj.GenerateResource.Cache
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.exe
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.pdb
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\CodeBetter.Json.CF.dll
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.PartShow.resources
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\Symbol.Barcode.dll
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\Symbol.dll
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\Symbol.xml
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\bin\Release\Symbol.Barcode.xml
+T:\Windows Projekte\PartkeeprScannr\PartkeeprScannr\obj\Release\PartkeeprScannr.Config.resources
